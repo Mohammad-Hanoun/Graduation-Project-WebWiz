@@ -24,7 +24,6 @@
 |----------------|----------------|--------------------------|
 | React + Next.js | .NET Core API  | Zustand, Babel, Tailwind |
 | Monaco Editor   | ASP.NET Core (.NET 9) | Google Auth (via Id token)  |
-| TypeScript      |                |                        |
 
-## 📂 Project Structure (Frontend)
+
 
