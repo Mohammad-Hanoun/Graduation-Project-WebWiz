@@ -14,9 +14,7 @@
 - 🏆 **Competitive Mode** *(coming soon)*
 - 🌐 **Built with:** Next.js, React, Zustand, Babel, Tailwind CSS
 
-## 📸 Demo
 
-![WebWiz Demo Screenshot](./public/demo.png) <!-- Replace with actual image if available -->
 
 ## 🛠️ Tech Stack
 
